@@ -49,6 +49,9 @@ This is a simple RESTful API for uploading and managing dog pictures.
 - config/mongoose.js - MongoDB connection configuration
 - tests/ - Test files for the API
 
+## To run the test, use the following command:
+- `npm test`
+
 ## We can view and interact with our MongoDB database:
 
 ## MongoDB Shell
